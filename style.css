@@ -1,0 +1,56 @@
+.heading
+{
+    font-size: 30px;
+    width: 100%;
+    margin:0px;
+    color:rgb(70, 95, 239)
+}
+.note
+{
+    font-size: 20px;
+    color:rgb(33, 228, 189);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body
+{
+    background-size: cover;
+}
+.div_speed
+{
+    float: left;
+}
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.div_volume
+{
+    float: right;
+}
+.div_volume_img
+{
+    width:200px;
+    border-radius: 100px;
+}
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.play_button
+{
+    width: 130px;
+    font-size:25px;
+}
+canvas{
+    border:5px solid rgb(79, 235, 209);
+    border-radius:20px;
+}
